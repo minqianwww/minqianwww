@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi, I'm Minqian 👋
 
-<!--
-**minqianwww/minqianwww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student at the **University of Michigan** (dual degree with the UM-SJTU Joint Institute).
+I'm interested in **ASIC design, AI accelerators, and CPU architecture**, and I'm looking for **Summer 2027 internships**.
 
-Here are some ideas to get you started:
+#### Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | What | Status |
+|---|---|---|
+| [systolic-int8](https://github.com/minqianwww/systolic-int8) | 4×4 weight-stationary INT8 systolic array in Chisel, verified with chiseltest against a NumPy golden model | Done |
+| [chipyard-gemmini-notes](https://github.com/minqianwww/chipyard-gemmini-notes) | Bringing up Gemmini in Chipyard under Verilator and tracing a C test down to the systolic mesh | Done |
+| RV32I 5-stage pipelined CPU | IF/ID/EX/MEM/WB pipeline in SystemVerilog | In progress |
+| Binary CAM accelerator (EECS 427, team) | 8-entry × 16-bit BCAM for a 16-bit processor, full-custom VLSI flow | In progress |
+
+#### Tools
+
+SystemVerilog · Verilog · Chisel/Scala · Python · Cadence Virtuoso · Innovus · Synopsys Design Compiler · Linux
+
+#### Contact
+
+[LinkedIn](https://www.linkedin.com/in/minqian-wang-139148432/)
